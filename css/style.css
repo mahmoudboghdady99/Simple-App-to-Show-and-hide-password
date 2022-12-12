@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 150px;
+}
+.container input {
+    margin-right: 10px;
+    height: 35px;
+    width: 350px;
+}
+#btn {
+    background: -webkit-linear-gradient(top, royalblue, gold, red);
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+}
+#btn:hover {
+    background: -webkit-linear-gradient(bottom, royalblue, gold, red);
+
+}
+
+
+
